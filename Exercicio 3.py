@@ -1,4 +1,4 @@
-def calcular_opcoes_retirada(valor_emprestimo):
+def calcular_opcoes_retirada(valor_emprestimo: float):
     """Calcula a quantidade das notas de cada opção de retirada
     :param valor_emprestimo: Valor do emprestimo solicitado pelo usuário
     :return: Retorna as possiveis opções de retirada com base nas notas e métodos disponíveis

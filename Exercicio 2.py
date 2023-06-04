@@ -1,4 +1,4 @@
-def converte_notas_para_graus(notas):
+def converte_notas_para_graus(notas: str):
     """Cria uma lista contendo a conversão das notas em graus
     :param notas: notas que serão convertidas
     :return: Retorna o grau da nota já convertida
